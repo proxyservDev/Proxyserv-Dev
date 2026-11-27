@@ -1,0 +1,20 @@
+# Fichiers générés par Dart et Flutter
+.dart_tool/
+build/
+
+# Node, Firebase et Cloud Functions
+node_modules/
+.firebase/
+functions/lib/
+
+# Secrets
+.env
+.env.*
+*service-account*.json
+
+# Journaux et fichiers locaux
+*.log
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
